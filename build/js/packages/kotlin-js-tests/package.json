@@ -1,0 +1,20 @@
+{
+  "name": "kotlin-js-tests",
+  "version": "1.0.0",
+  "main": "kotlin/kotlin-js-tests.js",
+  "devDependencies": {
+    "webpack": "4.46.0",
+    "webpack-cli": "3.3.12",
+    "format-util": "1.0.5",
+    "source-map-loader": "1.1.0",
+    "webpack-dev-server": "3.11.2"
+  },
+  "dependencies": {
+    "firebase": "9.6.8",
+    "@supabase/supabase-js": "1.31.1",
+    "@jlengrand/js-tests": "file:/Users/julienlengrand-lambert/Developer/kotlin-js-tests/src/jsMain/resources/js-tests"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
